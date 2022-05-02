@@ -1,5 +1,8 @@
 package ar.edu.unju.edm.model;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Calculadora {
 	private int n1;
 	private int n2;
